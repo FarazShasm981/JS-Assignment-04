@@ -112,3 +112,27 @@
 //     }
 // }
 // Question #10 End
+
+
+// ! CHAPTER # 21-22
+
+// Question # 01 Start
+// var firstName = prompt("Enter First Name");
+// var lastName = prompt("Enter Last Name");
+// var cap_f_name = firstName.slice(0,1).toUpperCase() + firstName.slice(1).toLowerCase();
+// var cap_l_name = lastName.slice(0,1).toUpperCase() + lastName.slice(1).toLowerCase();
+// var fullName = cap_f_name + " " + cap_l_name;
+// alert("Welcome To Our Website " + fullName)
+// Question # 01 End
+
+// Question # 02 Start
+// var favMob = prompt("What is your favourite mobile phone model?");
+// var length = favMob.length;
+// document.write(`Your favourite phone is : ${favMob} <br> Length of string is : ${length}`)
+// Question # 02 End
+
+// Question # 03 Start
+// var Nationality = "Pakistani";
+// document.write("Index of <b>'n'</b> is : " + Nationality.indexOf("n"));
+// Question # 03 End
+
