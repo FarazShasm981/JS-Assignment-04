@@ -65,3 +65,50 @@
 //     }
 // }
 // Question #06 End
+
+// Question #07 Start
+// var user = prompt("Welcome to Our Bakery\nWhat do you want to order?");
+// var flag = false;
+// var arr = ["cake", "apple pie", "cookie", "chips", "patties"];
+// for (var i = 0; i < arr.length; i++) {
+//   if (user === arr[i]) {
+//     document.write(arr[i] + " is available at index " + i);
+//     flag = true;
+//     break;
+//   }
+// }
+// if(flag != true) {
+//     document.write("We are sorry " + user + " is not available in our bakery");
+// }
+// Question #07 End
+
+// Question #08 Start
+// var A = [24, 53, 78, 91, 12];
+// var max = A[0];
+// for (var i = 0; i < A.length; i++) {
+//   if (A[i] > max) {
+//     max = A[i];
+//   }
+// }
+// document.write(`Numbers in Array : ${A}<br> The largest number in Array is : <b>${max}</b>`);
+// Question #08 End
+
+// Question #09 Start
+// var A = [24, 53, 78, 91, 12];
+// var max = A[0];
+// for (var i = 0; i <b A.length; i++) {
+//   if (A[i] < max) {
+//     max = A[i];
+//   }
+// }
+// document.write(`Numbers in Array : ${A}<br> The smallest number in Array is : <b>${max}</b>`);
+// Question #09 End
+
+// Question #10 Start
+// document.write("<b>Numbers which is Multiples of 5 In 1-100 </b><br>")
+// for (var i = 1; i <= 100; i++) {
+//     if(i % 5 === 0){
+//         document.write(i + "<br>")
+//     }
+// }
+// Question #10 End
